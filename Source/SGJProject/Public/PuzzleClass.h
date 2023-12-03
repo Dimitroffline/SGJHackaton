@@ -11,6 +11,8 @@ class SGJPROJECT_API APuzzleClass : public AActor
 {
 	GENERATED_BODY()
 	
+private:
+
 public:	
 	// Sets default values for this actor's properties
 	APuzzleClass();
